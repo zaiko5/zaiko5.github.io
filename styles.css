@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.preguntas {
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+.details {
+    box-sizing: border-box;
+    width: 100%;
+    border-bottom: 1px solid #ededed;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.parrafo {
+    margin-bottom: 0;
+}
